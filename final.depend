@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1745804851 source:c:\users\pc\onedrive\bureau\final\main.c
+	"raylib.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1746235872 source:c:\users\pc\onedrive\bureau\projet s2\final\main.c
+	"raylib.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
